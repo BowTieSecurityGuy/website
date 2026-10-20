@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bowtiesecurityguy.com/sitemap.xml
